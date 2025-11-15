@@ -1,0 +1,12 @@
+{
+    "hotkeys": {
+        "start": "ctrl+s",
+        "exit": "esc",
+        "reload": "ctrl+alt+r"
+    },
+    "delay": {
+        "min_s": 0.007,
+        "max_s": 0.02
+    },
+    "start_delay_s": 0.5
+}
